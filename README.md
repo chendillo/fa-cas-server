@@ -1,2 +1,2 @@
 # fa-cas-server
-Services for FA
+CAS service for FA
